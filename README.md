@@ -1,5 +1,5 @@
 # Introduction
-Small HTML template to experiment quickly
+Small HTML and SCSS project to experiment and test aniamtions, media queries and more !
 
 # Installation
 ``` 
